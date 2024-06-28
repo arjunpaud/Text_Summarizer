@@ -1,1 +1,121 @@
 [2024-06-24 20:16:30,960: INFO: main: Welcome to our custom log]
+[2024-06-25 17:55:12,708: INFO: main: >>>> stageData Ingestion Stage started<<<]
+[2024-06-25 17:55:12,708: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-06-25 17:55:12,708: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-06-25 17:55:12,708: ERROR: main: yaml file is empty]
+Traceback (most recent call last):
+  File "d:\text_summarizer\src\Text_Summarizer\utils\common.py", line 29, in read_yaml
+    return ConfigBox(content)
+  File "box\box.py", line 259, in box.box.Box.__init__
+box.exceptions.BoxValueError: First argument must be mapping or iterable
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "main.py", line 10, in <module>
+    data_ingestion.main()
+  File "d:\text_summarizer\src\Text_Summarizer\pipeline\stage_01_data_ingestion.py", line 11, in main
+    config = ConfigurationManager()
+  File "d:\text_summarizer\src\Text_Summarizer\config\configuration.py", line 12, in __init__
+    self.params=read_yaml(params_filepath)
+  File "C:\Users\hp\anaconda3\envs\texts\lib\site-packages\ensure\main.py", line 849, in __call__
+    return_val = self.f(*args, **kwargs)
+  File "d:\text_summarizer\src\Text_Summarizer\utils\common.py", line 31, in read_yaml
+    raise ValueError("yaml file is empty")
+ValueError: yaml file is empty
+[2024-06-25 17:58:18,235: INFO: main: >>>> stageData Ingestion Stage started<<<]
+[2024-06-25 17:58:18,235: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-06-25 17:58:18,235: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-06-25 17:58:18,235: ERROR: main: yaml file is empty]
+Traceback (most recent call last):
+  File "d:\text_summarizer\src\Text_Summarizer\utils\common.py", line 29, in read_yaml
+    return ConfigBox(content)
+  File "box\box.py", line 259, in box.box.Box.__init__
+box.exceptions.BoxValueError: First argument must be mapping or iterable
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "main.py", line 10, in <module>
+    data_ingestion.main()
+  File "d:\text_summarizer\src\Text_Summarizer\pipeline\stage_01_data_ingestion.py", line 11, in main
+    config = ConfigurationManager()
+  File "d:\text_summarizer\src\Text_Summarizer\config\configuration.py", line 12, in __init__
+    self.params=read_yaml(params_filepath)
+  File "C:\Users\hp\anaconda3\envs\texts\lib\site-packages\ensure\main.py", line 849, in __call__
+    return_val = self.f(*args, **kwargs)
+  File "d:\text_summarizer\src\Text_Summarizer\utils\common.py", line 31, in read_yaml
+    raise ValueError("yaml file is empty")
+ValueError: yaml file is empty
+[2024-06-26 13:56:24,850: INFO: main: >>>> stageData Ingestion Stage started<<<]
+[2024-06-26 13:56:24,850: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-06-26 13:56:24,850: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-06-26 13:56:24,850: ERROR: main: yaml file is empty]
+Traceback (most recent call last):
+  File "d:\text_summarizer\src\Text_Summarizer\utils\common.py", line 29, in read_yaml
+    return ConfigBox(content)
+  File "box\box.py", line 259, in box.box.Box.__init__
+box.exceptions.BoxValueError: First argument must be mapping or iterable
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "main.py", line 10, in <module>
+    data_ingestion.main()
+  File "d:\text_summarizer\src\Text_Summarizer\pipeline\stage_01_data_ingestion.py", line 11, in main
+    config = ConfigurationManager()
+  File "d:\text_summarizer\src\Text_Summarizer\config\configuration.py", line 12, in __init__
+    self.params=read_yaml(params_filepath)
+  File "C:\Users\hp\anaconda3\envs\texts\lib\site-packages\ensure\main.py", line 849, in __call__
+    return_val = self.f(*args, **kwargs)
+  File "d:\text_summarizer\src\Text_Summarizer\utils\common.py", line 31, in read_yaml
+    raise ValueError("yaml file is empty")
+ValueError: yaml file is empty
+[2024-06-26 13:59:11,794: INFO: main: >>>> stageData Ingestion Stage started<<<]
+[2024-06-26 13:59:11,794: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-06-26 13:59:11,794: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-06-26 13:59:11,794: ERROR: main: yaml file is empty]
+Traceback (most recent call last):
+  File "d:\text_summarizer\src\Text_Summarizer\utils\common.py", line 30, in read_yaml
+    return ConfigBox(content)
+  File "box\box.py", line 259, in box.box.Box.__init__
+box.exceptions.BoxValueError: First argument must be mapping or iterable
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "main.py", line 10, in <module>
+    data_ingestion.main()
+  File "d:\text_summarizer\src\Text_Summarizer\pipeline\stage_01_data_ingestion.py", line 11, in main
+    config = ConfigurationManager()
+  File "d:\text_summarizer\src\Text_Summarizer\config\configuration.py", line 12, in __init__
+    self.params=read_yaml(params_filepath)
+  File "C:\Users\hp\anaconda3\envs\texts\lib\site-packages\ensure\main.py", line 849, in __call__
+    return_val = self.f(*args, **kwargs)
+  File "d:\text_summarizer\src\Text_Summarizer\utils\common.py", line 32, in read_yaml
+    raise ValueError("yaml file is empty")
+ValueError: yaml file is empty
+[2024-06-26 14:04:21,614: INFO: main: >>>> stageData Ingestion Stage started<<<]
+[2024-06-26 14:04:21,614: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-06-26 14:04:21,622: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-06-26 14:04:21,622: ERROR: main: yaml file is empty]
+Traceback (most recent call last):
+  File "d:\text_summarizer\src\Text_Summarizer\utils\common.py", line 30, in read_yaml
+    return ConfigBox(content)
+  File "box\box.py", line 259, in box.box.Box.__init__
+box.exceptions.BoxValueError: First argument must be mapping or iterable
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "main.py", line 10, in <module>
+    data_ingestion.main()
+  File "d:\text_summarizer\src\Text_Summarizer\pipeline\stage_01_data_ingestion.py", line 11, in main
+    config = ConfigurationManager()
+  File "d:\text_summarizer\src\Text_Summarizer\config\configuration.py", line 12, in __init__
+    self.params=read_yaml(params_filepath)
+  File "C:\Users\hp\anaconda3\envs\texts\lib\site-packages\ensure\main.py", line 849, in __call__
+    return_val = self.f(*args, **kwargs)
+  File "d:\text_summarizer\src\Text_Summarizer\utils\common.py", line 32, in read_yaml
+    raise ValueError("yaml file is empty")
+ValueError: yaml file is empty
