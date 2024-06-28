@@ -1,7 +1,7 @@
 from Text_Summarizer.constants import*
 from Text_Summarizer.utils.common import read_yaml, create_directories
-
 from Text_Summarizer.entity import (DataIngestionConfig)
+
 class ConfigurationManager:
     def __init__(
             self,
@@ -23,5 +23,5 @@ class ConfigurationManager:
              local_data_file=config.local_data_file,
              unzip_dir=config.unzip_dir
         )
-                 
+        return data_ingestion_config         
         
