@@ -29,3 +29,8 @@ Expires: Fri, 28 Jun 2024 08:06:22 GMT
 Source-Age: 0
 
 ]
+[2024-06-29 13:57:07,853: INFO: config: PyTorch version 2.3.1 available.]
+[2024-06-29 13:57:25,765: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-06-29 13:57:25,774: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-06-29 13:57:25,776: INFO: common: created directory at: artifacts]
+[2024-06-29 13:57:25,776: INFO: common: created directory at: artifacts/data_transformation]

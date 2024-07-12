@@ -182,3 +182,1241 @@ Source-Age: 0
 [2024-06-28 14:17:59,181: INFO: main: >>> stageData Ingestion Stage completed <<<<
 
 ====x]
+[2024-06-28 15:01:33,196: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-06-28 15:01:33,196: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-06-28 15:01:33,202: INFO: common: created directory at: artifacts]
+[2024-06-28 15:01:33,202: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-06-28 15:03:18,241: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-06-28 15:03:18,246: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-06-28 15:03:18,247: INFO: common: created directory at: artifacts]
+[2024-06-28 15:03:18,247: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-06-28 15:05:58,041: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-06-28 15:05:58,046: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-06-28 15:05:58,046: INFO: common: created directory at: artifacts]
+[2024-06-28 15:05:58,049: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-06-28 15:05:59,315: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-06-28 15:05:59,321: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-06-28 15:05:59,323: INFO: common: created directory at: artifacts]
+[2024-06-28 15:05:59,325: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-06-28 15:06:55,140: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-06-28 15:06:55,145: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-06-28 15:06:55,148: INFO: common: created directory at: artifacts]
+[2024-06-28 15:06:55,148: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-06-28 15:09:46,147: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-06-28 15:09:46,155: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-06-28 15:09:46,155: INFO: common: created directory at: artifacts]
+[2024-06-28 15:09:46,155: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-06-28 15:11:07,046: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-06-28 15:11:07,046: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-06-28 15:11:07,046: INFO: common: created directory at: artifacts]
+[2024-06-28 15:11:07,051: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-06-28 15:17:50,743: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-06-28 15:17:50,748: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-06-28 15:17:50,766: INFO: common: created directory at: artifacts]
+[2024-06-28 15:17:50,769: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-06-28 15:19:06,473: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-06-28 15:19:06,480: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-06-28 15:19:06,480: INFO: common: created directory at: artifacts]
+[2024-06-28 15:19:06,480: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-06-28 15:21:23,493: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-06-28 15:21:23,496: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-06-28 15:21:23,497: INFO: common: created directory at: artifacts]
+[2024-06-28 15:21:23,500: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-06-28 15:23:44,193: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-06-28 15:23:44,193: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-06-28 15:23:44,193: INFO: common: created directory at: artifacts]
+[2024-06-28 15:23:44,193: INFO: common: created directory at: artifacts/validation]
+[2024-06-28 15:25:19,937: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-06-28 15:25:19,939: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-06-28 15:25:19,939: INFO: common: created directory at: artifacts]
+[2024-06-28 15:25:19,943: INFO: common: created directory at: artifacts/data_validation]
+[2024-06-28 16:35:41,370: INFO: main: >>>> stageData Ingestion Stage started<<<]
+[2024-06-28 16:35:41,387: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-06-28 16:35:41,387: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-06-28 16:35:41,387: INFO: common: created directory at: artifacts]
+[2024-06-28 16:35:41,387: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-06-28 16:35:44,176: INFO: data_ingestion: artifacts/data_ingestion/data.zip download! with following info: 
+Connection: close
+Content-Length: 7903594
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "dbc016a060da18070593b83afff580c9b300f0b6ea4147a7988433e04df246ca"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: 293A:D3A48:878C0:A9FFF:667E957E
+Accept-Ranges: bytes
+Date: Fri, 28 Jun 2024 10:50:39 GMT
+Via: 1.1 varnish
+X-Served-By: cache-del21741-DEL
+X-Cache: MISS
+X-Cache-Hits: 0
+X-Timer: S1719571839.234112,VS0,VE569
+Vary: Authorization,Accept-Encoding,Origin
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: 06a37bfc4a62b2d3b0ac5515689b25c8a574f664
+Expires: Fri, 28 Jun 2024 10:55:39 GMT
+Source-Age: 0
+
+]
+[2024-06-28 16:35:44,300: INFO: main: >>> stageData Ingestion Stage completed <<<<
+
+====x]
+[2024-06-28 16:35:44,300: INFO: main: >>>> stageData Validation Stage started<<<]
+[2024-06-28 16:35:44,307: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-06-28 16:35:44,307: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-06-28 16:35:44,307: INFO: common: created directory at: artifacts]
+[2024-06-28 16:35:44,307: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-06-28 16:35:44,307: INFO: data_ingestion: File already exists of size: ~ 7718 KB]
+[2024-06-28 16:35:44,399: INFO: main: >>> stageData Validation Stage completed <<<<
+
+====x]
+[2024-06-28 16:38:19,342: INFO: main: >>>> stageData Ingestion Stage started<<<]
+[2024-06-28 16:38:19,346: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-06-28 16:38:19,346: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-06-28 16:38:19,350: INFO: common: created directory at: artifacts]
+[2024-06-28 16:38:19,350: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-06-28 16:38:19,352: INFO: data_ingestion: File already exists of size: ~ 7718 KB]
+[2024-06-28 16:38:19,450: INFO: main: >>> stageData Ingestion Stage completed <<<<
+
+====x]
+[2024-06-28 16:38:19,450: INFO: main: >>>> stageData Validation Stage started<<<]
+[2024-06-28 16:38:19,450: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-06-28 16:38:19,450: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-06-28 16:38:19,450: INFO: common: created directory at: artifacts]
+[2024-06-28 16:38:19,450: INFO: common: created directory at: artifacts/data_validation]
+[2024-06-28 16:38:19,450: INFO: main: >>> stageData Validation Stage completed <<<<
+
+====x]
+[2024-06-28 16:39:19,618: INFO: main: >>>> stageData Ingestion Stage started<<<]
+[2024-06-28 16:39:19,618: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-06-28 16:39:19,618: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-06-28 16:39:19,618: INFO: common: created directory at: artifacts]
+[2024-06-28 16:39:19,618: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-06-28 16:39:21,995: INFO: data_ingestion: artifacts/data_ingestion/data.zip download! with following info: 
+Connection: close
+Content-Length: 7903594
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "dbc016a060da18070593b83afff580c9b300f0b6ea4147a7988433e04df246ca"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: 293A:D3A48:878C0:A9FFF:667E957E
+Accept-Ranges: bytes
+Date: Fri, 28 Jun 2024 10:54:17 GMT
+Via: 1.1 varnish
+X-Served-By: cache-del21736-DEL
+X-Cache: HIT
+X-Cache-Hits: 0
+X-Timer: S1719572057.440275,VS0,VE1
+Vary: Authorization,Accept-Encoding,Origin
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: b55b72afafdbfaf59e9c2bcfb728e41bba1f1c04
+Expires: Fri, 28 Jun 2024 10:59:17 GMT
+Source-Age: 218
+
+]
+[2024-06-28 16:39:22,123: INFO: main: >>> stageData Ingestion Stage completed <<<<
+
+====x]
+[2024-06-28 16:39:22,123: INFO: main: >>>> stageData Validation Stage started<<<]
+[2024-06-28 16:39:22,123: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-06-28 16:39:22,123: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-06-28 16:39:22,123: INFO: common: created directory at: artifacts]
+[2024-06-28 16:39:22,123: INFO: common: created directory at: artifacts/data_validation]
+[2024-06-28 16:39:22,123: INFO: main: >>> stageData Validation Stage completed <<<<
+
+====x]
+[2024-06-29 13:56:09,286: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-06-29 13:56:09,302: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-06-29 13:56:09,305: INFO: common: created directory at: artifacts]
+[2024-06-29 13:56:09,305: INFO: common: created directory at: artifacts/data_transformation]
+[2024-06-29 14:22:55,365: INFO: config: PyTorch version 2.3.1 available.]
+[2024-06-29 14:22:55,694: INFO: main: >>>> stageData Ingestion Stage started<<<]
+[2024-06-29 14:22:55,709: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-06-29 14:22:55,712: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-06-29 14:22:55,715: INFO: common: created directory at: artifacts]
+[2024-06-29 14:22:55,715: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-06-29 14:22:55,715: INFO: data_ingestion: File already exists of size: ~ 7718 KB]
+[2024-06-29 14:22:55,864: INFO: main: >>> stageData Ingestion Stage completed <<<<
+
+====x]
+[2024-06-29 14:22:55,864: INFO: main: >>>> stageData Validation Stage started<<<]
+[2024-06-29 14:22:55,867: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-06-29 14:22:55,867: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-06-29 14:22:55,867: INFO: common: created directory at: artifacts]
+[2024-06-29 14:22:55,867: INFO: common: created directory at: artifacts/data_validation]
+[2024-06-29 14:22:55,867: INFO: main: >>> stageData Validation Stage completed <<<<
+
+====x]
+[2024-06-29 14:22:55,867: INFO: main: >>>> stageData Transformation Stage started<<<]
+[2024-06-29 14:22:55,876: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-06-29 14:22:55,876: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-06-29 14:22:55,876: INFO: common: created directory at: artifacts]
+[2024-06-29 14:22:55,878: INFO: common: created directory at: artifacts/data_transformation]
+[2024-06-29 14:22:57,163: ERROR: main: 'DataTransformation' object has no attribute 'validate_all_files_exist']
+Traceback (most recent call last):
+  File "main.py", line 46, in <module>
+    data_transformation.main()
+  File "d:\text_summarizer\src\Text_Summarizer\pipeline\stage_03_data_transformation.py", line 14, in main
+    data_transformation.validate_all_files_exist()
+AttributeError: 'DataTransformation' object has no attribute 'validate_all_files_exist'
+[2024-06-29 14:24:40,023: INFO: config: PyTorch version 2.3.1 available.]
+[2024-06-29 14:24:40,397: INFO: main: >>>> stageData Ingestion Stage started<<<]
+[2024-06-29 14:24:40,397: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-06-29 14:24:40,404: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-06-29 14:24:40,404: INFO: common: created directory at: artifacts]
+[2024-06-29 14:24:40,406: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-06-29 14:24:40,406: INFO: data_ingestion: File already exists of size: ~ 7718 KB]
+[2024-06-29 14:24:40,532: INFO: main: >>> stageData Ingestion Stage completed <<<<
+
+====x]
+[2024-06-29 14:24:40,532: INFO: main: >>>> stageData Validation Stage started<<<]
+[2024-06-29 14:24:40,532: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-06-29 14:24:40,532: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-06-29 14:24:40,550: INFO: common: created directory at: artifacts]
+[2024-06-29 14:24:40,555: INFO: common: created directory at: artifacts/data_validation]
+[2024-06-29 14:24:40,568: INFO: main: >>> stageData Validation Stage completed <<<<
+
+====x]
+[2024-06-29 14:24:40,571: INFO: main: >>>> stageData Transformation Stage started<<<]
+[2024-06-29 14:24:40,591: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-06-29 14:24:40,593: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-06-29 14:24:40,593: INFO: common: created directory at: artifacts]
+[2024-06-29 14:24:40,593: INFO: common: created directory at: artifacts/data_transformation]
+[2024-06-29 14:24:45,741: INFO: main: >>> stageData Transformation Stage completed <<<<
+
+====x]
+[2024-06-29 14:25:27,446: INFO: config: PyTorch version 2.3.1 available.]
+[2024-06-29 14:25:27,764: INFO: main: >>>> stageData Ingestion Stage started<<<]
+[2024-06-29 14:25:27,764: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-06-29 14:25:27,764: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-06-29 14:25:27,764: INFO: common: created directory at: artifacts]
+[2024-06-29 14:25:27,788: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-06-29 14:25:32,276: INFO: data_ingestion: artifacts/data_ingestion/data.zip download! with following info: 
+Connection: close
+Content-Length: 7903594
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "dbc016a060da18070593b83afff580c9b300f0b6ea4147a7988433e04df246ca"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: 293F:F6BBB:10606C:155472:667FC87D
+Accept-Ranges: bytes
+Date: Sat, 29 Jun 2024 08:40:30 GMT
+Via: 1.1 varnish
+X-Served-By: cache-del21744-DEL
+X-Cache: MISS
+X-Cache-Hits: 0
+X-Timer: S1719650429.278519,VS0,VE738
+Vary: Authorization,Accept-Encoding,Origin
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: 1729a7a2f394c098cd77a3351ec465aeebe912f3
+Expires: Sat, 29 Jun 2024 08:45:30 GMT
+Source-Age: 0
+
+]
+[2024-06-29 14:25:32,437: INFO: main: >>> stageData Ingestion Stage completed <<<<
+
+====x]
+[2024-06-29 14:25:32,437: INFO: main: >>>> stageData Validation Stage started<<<]
+[2024-06-29 14:25:32,444: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-06-29 14:25:32,446: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-06-29 14:25:32,448: INFO: common: created directory at: artifacts]
+[2024-06-29 14:25:32,449: INFO: common: created directory at: artifacts/data_validation]
+[2024-06-29 14:25:32,450: INFO: main: >>> stageData Validation Stage completed <<<<
+
+====x]
+[2024-06-29 14:25:32,454: INFO: main: >>>> stageData Transformation Stage started<<<]
+[2024-06-29 14:25:32,457: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-06-29 14:25:32,457: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-06-29 14:25:32,467: INFO: common: created directory at: artifacts]
+[2024-06-29 14:25:32,467: INFO: common: created directory at: artifacts/data_transformation]
+[2024-06-29 14:25:37,342: INFO: main: >>> stageData Transformation Stage completed <<<<
+
+====x]
+[2024-06-29 16:12:24,862: INFO: config: PyTorch version 2.3.1 available.]
+[2024-06-29 16:12:25,723: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-06-29 16:12:25,729: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-06-29 16:12:25,730: INFO: common: created directory at: artifacts]
+[2024-06-29 16:16:31,978: INFO: config: PyTorch version 2.3.1 available.]
+[2024-06-29 16:16:32,580: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-06-29 16:16:32,580: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-06-29 16:16:32,585: INFO: common: created directory at: artifacts]
+[2024-06-29 16:16:41,634: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-06-29 16:16:41,636: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-06-29 16:16:41,637: INFO: common: created directory at: artifacts]
+[2024-06-29 16:22:35,185: INFO: config: PyTorch version 2.3.1 available.]
+[2024-06-29 16:22:36,030: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-06-29 16:22:36,030: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-06-29 16:22:36,038: INFO: common: created directory at: artifacts]
+[2024-06-29 16:22:42,507: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-06-29 16:22:42,513: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-06-29 16:22:42,514: INFO: common: created directory at: artifacts]
+[2024-06-29 16:24:09,581: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-06-29 16:24:09,590: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-06-29 16:24:09,591: INFO: common: created directory at: artifacts]
+[2024-06-29 16:29:30,214: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-06-29 16:29:30,218: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-06-29 16:29:30,219: INFO: common: created directory at: artifacts]
+[2024-06-29 16:29:32,005: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-06-29 16:29:32,005: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-06-29 16:29:32,012: INFO: common: created directory at: artifacts]
+[2024-06-29 16:29:32,506: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-06-29 16:29:32,509: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-06-29 16:29:32,511: INFO: common: created directory at: artifacts]
+[2024-06-29 16:35:46,460: INFO: config: PyTorch version 2.3.1 available.]
+[2024-06-29 16:35:47,137: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-06-29 16:35:47,137: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-06-29 16:35:47,137: INFO: common: created directory at: artifacts]
+[2024-06-29 16:36:30,727: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-06-29 16:36:30,734: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-06-29 16:36:30,737: INFO: common: created directory at: artifacts]
+[2024-06-29 17:06:03,273: INFO: config: PyTorch version 2.3.1 available.]
+[2024-06-29 17:06:06,139: INFO: main: >>>> stageData Ingestion Stage started<<<]
+[2024-06-29 17:06:06,156: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-06-29 17:06:06,156: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-06-29 17:06:06,156: INFO: common: created directory at: artifacts]
+[2024-06-29 17:06:06,156: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-06-29 17:06:06,156: INFO: data_ingestion: File already exists of size: ~ 7718 KB]
+[2024-06-29 17:06:06,301: INFO: main: >>> stageData Ingestion Stage completed <<<<
+
+====x]
+[2024-06-29 17:06:06,301: INFO: main: >>>> stageData Validation Stage started<<<]
+[2024-06-29 17:06:06,304: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-06-29 17:06:06,304: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-06-29 17:06:06,304: INFO: common: created directory at: artifacts]
+[2024-06-29 17:06:06,304: INFO: common: created directory at: artifacts/data_validation]
+[2024-06-29 17:06:06,304: INFO: main: >>> stageData Validation Stage completed <<<<
+
+====x]
+[2024-06-29 17:06:06,304: INFO: main: >>>> stageData Transformation Stage started<<<]
+[2024-06-29 17:06:06,309: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-06-29 17:06:06,309: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-06-29 17:06:06,309: INFO: common: created directory at: artifacts]
+[2024-06-29 17:06:06,309: INFO: common: created directory at: artifacts/data_transformation]
+[2024-06-29 17:06:59,262: INFO: main: >>> stageData Transformation Stage completed <<<<
+
+====x]
+[2024-06-29 17:06:59,262: INFO: main: >>>> stageModel Training Stage started<<<]
+[2024-06-29 17:06:59,269: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-06-29 17:06:59,269: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-06-29 17:06:59,271: INFO: common: created directory at: artifacts]
+[2024-06-29 17:06:59,271: ERROR: main: "'ConfigBox' object has no attribute 'trainingarguments'"]
+Traceback (most recent call last):
+  File "box\box.py", line 503, in box.box.Box.__getitem__
+KeyError: 'TrainingArguments'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "box\box.py", line 536, in box.box.Box.__getattr__
+  File "box\box.py", line 524, in box.box.Box.__getitem__
+box.exceptions.BoxKeyError: "'TrainingArguments'"
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "box\box.py", line 538, in box.box.Box.__getattr__
+AttributeError: 'ConfigBox' object has no attribute 'TrainingArguments'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "box\config_box.py", line 28, in box.config_box.ConfigBox.__getattr__
+  File "box\box.py", line 552, in box.box.Box.__getattr__
+box.exceptions.BoxKeyError: "'ConfigBox' object has no attribute 'TrainingArguments'"
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "box\box.py", line 503, in box.box.Box.__getitem__
+KeyError: 'trainingarguments'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "box\box.py", line 536, in box.box.Box.__getattr__
+  File "box\box.py", line 524, in box.box.Box.__getitem__
+box.exceptions.BoxKeyError: "'trainingarguments'"
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "box\box.py", line 538, in box.box.Box.__getattr__
+AttributeError: 'ConfigBox' object has no attribute 'trainingarguments'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "main.py", line 64, in <module>
+    model_trainer.main()
+  File "d:\text_summarizer\src\Text_Summarizer\pipeline\stage_04_model_training.py", line 12, in main
+    model_trainer_config=config.get_model_trainer_config()
+  File "d:\text_summarizer\src\Text_Summarizer\config\configuration.py", line 60, in get_model_trainer_config
+    params = self.params.TrainingArguments
+  File "box\config_box.py", line 30, in box.config_box.ConfigBox.__getattr__
+  File "box\box.py", line 552, in box.box.Box.__getattr__
+box.exceptions.BoxKeyError: "'ConfigBox' object has no attribute 'trainingarguments'"
+[2024-06-29 17:11:55,858: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-06-29 17:11:55,866: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-06-29 17:11:55,866: INFO: common: created directory at: artifacts]
+[2024-07-03 18:23:10,886: INFO: config: PyTorch version 2.3.1 available.]
+[2024-07-03 18:23:11,572: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-07-03 18:23:11,589: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-07-03 18:23:11,593: INFO: common: created directory at: artifacts]
+[2024-07-03 18:25:49,572: INFO: config: PyTorch version 2.3.1 available.]
+[2024-07-03 18:25:52,140: INFO: main: >>>> stageData Ingestion Stage started<<<]
+[2024-07-03 18:25:52,144: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-07-03 18:25:52,145: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-07-03 18:25:52,146: INFO: common: created directory at: artifacts]
+[2024-07-03 18:25:52,146: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-07-03 18:25:52,147: INFO: data_ingestion: File already exists of size: ~ 7718 KB]
+[2024-07-03 18:25:52,288: INFO: main: >>> stageData Ingestion Stage completed <<<<
+
+====x]
+[2024-07-03 18:25:52,289: INFO: main: >>>> stageData Validation Stage started<<<]
+[2024-07-03 18:25:52,292: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-07-03 18:25:52,294: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-07-03 18:25:52,295: INFO: common: created directory at: artifacts]
+[2024-07-03 18:25:52,295: INFO: common: created directory at: artifacts/data_validation]
+[2024-07-03 18:25:52,296: INFO: main: >>> stageData Validation Stage completed <<<<
+
+====x]
+[2024-07-03 18:25:52,297: INFO: main: >>>> stageData Transformation Stage started<<<]
+[2024-07-03 18:25:52,299: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-07-03 18:25:52,299: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-07-03 18:25:52,300: INFO: common: created directory at: artifacts]
+[2024-07-03 18:25:52,301: INFO: common: created directory at: artifacts/data_transformation]
+[2024-07-03 18:25:54,423: INFO: main: >>> stageData Transformation Stage completed <<<<
+
+====x]
+[2024-07-03 18:25:54,424: INFO: main: >>>> stageModel Training Stage started<<<]
+[2024-07-03 18:25:54,427: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-07-03 18:25:54,428: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-07-03 18:25:54,429: INFO: common: created directory at: artifacts]
+[2024-07-03 18:25:54,429: ERROR: main: "'ConfigBox' object has no attribute 'trainingarguments'"]
+Traceback (most recent call last):
+  File "box\box.py", line 503, in box.box.Box.__getitem__
+KeyError: 'TrainingArguments'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "box\box.py", line 536, in box.box.Box.__getattr__
+  File "box\box.py", line 524, in box.box.Box.__getitem__
+box.exceptions.BoxKeyError: "'TrainingArguments'"
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "box\box.py", line 538, in box.box.Box.__getattr__
+AttributeError: 'ConfigBox' object has no attribute 'TrainingArguments'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "box\config_box.py", line 28, in box.config_box.ConfigBox.__getattr__
+  File "box\box.py", line 552, in box.box.Box.__getattr__
+box.exceptions.BoxKeyError: "'ConfigBox' object has no attribute 'TrainingArguments'"
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "box\box.py", line 503, in box.box.Box.__getitem__
+KeyError: 'trainingarguments'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "box\box.py", line 536, in box.box.Box.__getattr__
+  File "box\box.py", line 524, in box.box.Box.__getitem__
+box.exceptions.BoxKeyError: "'trainingarguments'"
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "box\box.py", line 538, in box.box.Box.__getattr__
+AttributeError: 'ConfigBox' object has no attribute 'trainingarguments'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "main.py", line 63, in <module>
+    model_trainer.main()
+  File "d:\text_summarizer\src\Text_Summarizer\pipeline\stage_04_model_training.py", line 12, in main
+    model_trainer_config=config.get_model_trainer_config()
+  File "d:\text_summarizer\src\Text_Summarizer\config\configuration.py", line 60, in get_model_trainer_config
+    params = self.params.TrainingArguments
+  File "box\config_box.py", line 30, in box.config_box.ConfigBox.__getattr__
+  File "box\box.py", line 552, in box.box.Box.__getattr__
+box.exceptions.BoxKeyError: "'ConfigBox' object has no attribute 'trainingarguments'"
+[2024-07-03 18:35:21,470: INFO: config: PyTorch version 2.3.1 available.]
+[2024-07-03 18:35:23,789: INFO: main: >>>> stageData Ingestion Stage started<<<]
+[2024-07-03 18:35:23,794: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-07-03 18:35:23,796: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-07-03 18:35:23,796: INFO: common: created directory at: artifacts]
+[2024-07-03 18:35:23,797: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-07-03 18:35:23,797: INFO: data_ingestion: File already exists of size: ~ 7718 KB]
+[2024-07-03 18:35:23,892: INFO: main: >>> stageData Ingestion Stage completed <<<<
+
+====x]
+[2024-07-03 18:35:23,892: INFO: main: >>>> stageData Validation Stage started<<<]
+[2024-07-03 18:35:23,895: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-07-03 18:35:23,896: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-07-03 18:35:23,896: INFO: common: created directory at: artifacts]
+[2024-07-03 18:35:23,897: INFO: common: created directory at: artifacts/data_validation]
+[2024-07-03 18:35:23,897: INFO: main: >>> stageData Validation Stage completed <<<<
+
+====x]
+[2024-07-03 18:35:23,898: INFO: main: >>>> stageData Transformation Stage started<<<]
+[2024-07-03 18:35:23,900: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-07-03 18:35:23,901: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-07-03 18:35:23,901: INFO: common: created directory at: artifacts]
+[2024-07-03 18:35:23,901: INFO: common: created directory at: artifacts/data_transformation]
+[2024-07-03 18:35:25,767: INFO: main: >>> stageData Transformation Stage completed <<<<
+
+====x]
+[2024-07-03 18:35:25,767: INFO: main: >>>> stageModel Training Stage started<<<]
+[2024-07-03 18:35:25,769: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-07-03 18:35:25,772: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-07-03 18:35:25,772: INFO: common: created directory at: artifacts]
+[2024-07-03 18:35:25,773: ERROR: main: "'ConfigBox' object has no attribute 'trainingarguments'"]
+Traceback (most recent call last):
+  File "box\box.py", line 503, in box.box.Box.__getitem__
+KeyError: 'TrainingArguments'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "box\box.py", line 536, in box.box.Box.__getattr__
+  File "box\box.py", line 524, in box.box.Box.__getitem__
+box.exceptions.BoxKeyError: "'TrainingArguments'"
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "box\box.py", line 538, in box.box.Box.__getattr__
+AttributeError: 'ConfigBox' object has no attribute 'TrainingArguments'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "box\config_box.py", line 28, in box.config_box.ConfigBox.__getattr__
+  File "box\box.py", line 552, in box.box.Box.__getattr__
+box.exceptions.BoxKeyError: "'ConfigBox' object has no attribute 'TrainingArguments'"
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "box\box.py", line 503, in box.box.Box.__getitem__
+KeyError: 'trainingarguments'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "box\box.py", line 536, in box.box.Box.__getattr__
+  File "box\box.py", line 524, in box.box.Box.__getitem__
+box.exceptions.BoxKeyError: "'trainingarguments'"
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "box\box.py", line 538, in box.box.Box.__getattr__
+AttributeError: 'ConfigBox' object has no attribute 'trainingarguments'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "main.py", line 63, in <module>
+    model_trainer.main()
+  File "d:\text_summarizer\src\Text_Summarizer\pipeline\stage_04_model_training.py", line 12, in main
+    model_trainer_config=config.get_model_trainer_config()
+  File "d:\text_summarizer\src\Text_Summarizer\config\configuration.py", line 59, in get_model_trainer_config
+    params = self.params.TrainingArguments
+  File "box\config_box.py", line 30, in box.config_box.ConfigBox.__getattr__
+  File "box\box.py", line 552, in box.box.Box.__getattr__
+box.exceptions.BoxKeyError: "'ConfigBox' object has no attribute 'trainingarguments'"
+[2024-07-03 18:37:59,817: INFO: config: PyTorch version 2.3.1 available.]
+[2024-07-03 18:38:01,806: INFO: main: >>>> stageData Ingestion Stage started<<<]
+[2024-07-03 18:38:01,809: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-07-03 18:38:01,810: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-07-03 18:38:01,811: INFO: common: created directory at: artifacts]
+[2024-07-03 18:38:01,812: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-07-03 18:38:01,812: INFO: data_ingestion: File already exists of size: ~ 7718 KB]
+[2024-07-03 18:38:01,922: INFO: main: >>> stageData Ingestion Stage completed <<<<
+
+====x]
+[2024-07-03 18:38:01,923: INFO: main: >>>> stageData Validation Stage started<<<]
+[2024-07-03 18:38:01,926: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-07-03 18:38:01,926: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-07-03 18:38:01,928: INFO: common: created directory at: artifacts]
+[2024-07-03 18:38:01,928: INFO: common: created directory at: artifacts/data_validation]
+[2024-07-03 18:38:01,930: INFO: main: >>> stageData Validation Stage completed <<<<
+
+====x]
+[2024-07-03 18:38:01,931: INFO: main: >>>> stageData Transformation Stage started<<<]
+[2024-07-03 18:38:01,934: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-07-03 18:38:01,936: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-07-03 18:38:01,937: INFO: common: created directory at: artifacts]
+[2024-07-03 18:38:01,938: INFO: common: created directory at: artifacts/data_transformation]
+[2024-07-03 18:38:03,195: INFO: main: >>> stageData Transformation Stage completed <<<<
+
+====x]
+[2024-07-03 18:38:03,195: INFO: main: >>>> stageModel Training Stage started<<<]
+[2024-07-03 18:38:03,197: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-07-03 18:38:03,198: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-07-03 18:38:03,199: INFO: common: created directory at: artifacts]
+[2024-07-03 18:38:03,199: ERROR: main: "'ConfigBox' object has no attribute 'trainingarguments'"]
+Traceback (most recent call last):
+  File "box\box.py", line 503, in box.box.Box.__getitem__
+KeyError: 'TrainingArguments'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "box\box.py", line 536, in box.box.Box.__getattr__
+  File "box\box.py", line 524, in box.box.Box.__getitem__
+box.exceptions.BoxKeyError: "'TrainingArguments'"
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "box\box.py", line 538, in box.box.Box.__getattr__
+AttributeError: 'ConfigBox' object has no attribute 'TrainingArguments'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "box\config_box.py", line 28, in box.config_box.ConfigBox.__getattr__
+  File "box\box.py", line 552, in box.box.Box.__getattr__
+box.exceptions.BoxKeyError: "'ConfigBox' object has no attribute 'TrainingArguments'"
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "box\box.py", line 503, in box.box.Box.__getitem__
+KeyError: 'trainingarguments'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "box\box.py", line 536, in box.box.Box.__getattr__
+  File "box\box.py", line 524, in box.box.Box.__getitem__
+box.exceptions.BoxKeyError: "'trainingarguments'"
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "box\box.py", line 538, in box.box.Box.__getattr__
+AttributeError: 'ConfigBox' object has no attribute 'trainingarguments'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "main.py", line 63, in <module>
+    model_trainer.main()
+  File "d:\text_summarizer\src\Text_Summarizer\pipeline\stage_04_model_training.py", line 12, in main
+    model_trainer_config=config.get_model_trainer_config()
+  File "d:\text_summarizer\src\Text_Summarizer\config\configuration.py", line 59, in get_model_trainer_config
+    params = self.params.TrainingArguments
+  File "box\config_box.py", line 30, in box.config_box.ConfigBox.__getattr__
+  File "box\box.py", line 552, in box.box.Box.__getattr__
+box.exceptions.BoxKeyError: "'ConfigBox' object has no attribute 'trainingarguments'"
+[2024-07-03 18:40:47,351: INFO: config: PyTorch version 2.3.1 available.]
+[2024-07-03 18:40:47,867: INFO: main: >>>> stageData Ingestion Stage started<<<]
+[2024-07-03 18:40:47,871: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-07-03 18:40:47,874: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-07-03 18:40:47,875: INFO: common: created directory at: artifacts]
+[2024-07-03 18:40:47,876: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-07-03 18:40:47,876: INFO: data_ingestion: File already exists of size: ~ 7718 KB]
+[2024-07-03 18:40:47,991: INFO: main: >>> stageData Ingestion Stage completed <<<<
+
+====x]
+[2024-07-03 18:40:47,992: INFO: main: >>>> stageData Validation Stage started<<<]
+[2024-07-03 18:40:47,995: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-07-03 18:40:47,996: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-07-03 18:40:47,997: INFO: common: created directory at: artifacts]
+[2024-07-03 18:40:47,997: INFO: common: created directory at: artifacts/data_validation]
+[2024-07-03 18:40:48,000: INFO: main: >>> stageData Validation Stage completed <<<<
+
+====x]
+[2024-07-03 18:40:48,001: INFO: main: >>>> stageData Transformation Stage started<<<]
+[2024-07-03 18:40:48,004: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-07-03 18:40:48,006: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-07-03 18:40:48,007: INFO: common: created directory at: artifacts]
+[2024-07-03 18:40:48,008: INFO: common: created directory at: artifacts/data_transformation]
+[2024-07-03 18:40:49,379: INFO: main: >>> stageData Transformation Stage completed <<<<
+
+====x]
+[2024-07-03 18:40:49,380: INFO: main: >>>> stageModel Training Stage started<<<]
+[2024-07-03 18:40:49,384: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-07-03 18:40:49,385: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-07-03 18:40:49,385: INFO: common: created directory at: artifacts]
+[2024-07-03 18:40:49,386: ERROR: main: "'ConfigBox' object has no attribute 'trainingarguments'"]
+Traceback (most recent call last):
+  File "box\box.py", line 503, in box.box.Box.__getitem__
+KeyError: 'TrainingArguments'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "box\box.py", line 536, in box.box.Box.__getattr__
+  File "box\box.py", line 524, in box.box.Box.__getitem__
+box.exceptions.BoxKeyError: "'TrainingArguments'"
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "box\box.py", line 538, in box.box.Box.__getattr__
+AttributeError: 'ConfigBox' object has no attribute 'TrainingArguments'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "box\config_box.py", line 28, in box.config_box.ConfigBox.__getattr__
+  File "box\box.py", line 552, in box.box.Box.__getattr__
+box.exceptions.BoxKeyError: "'ConfigBox' object has no attribute 'TrainingArguments'"
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "box\box.py", line 503, in box.box.Box.__getitem__
+KeyError: 'trainingarguments'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "box\box.py", line 536, in box.box.Box.__getattr__
+  File "box\box.py", line 524, in box.box.Box.__getitem__
+box.exceptions.BoxKeyError: "'trainingarguments'"
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "box\box.py", line 538, in box.box.Box.__getattr__
+AttributeError: 'ConfigBox' object has no attribute 'trainingarguments'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "main.py", line 63, in <module>
+    model_trainer.main()
+  File "d:\text_summarizer\src\Text_Summarizer\pipeline\stage_04_model_training.py", line 12, in main
+    model_trainer_config=config.get_model_trainer_config()
+  File "d:\text_summarizer\src\Text_Summarizer\config\configuration.py", line 60, in get_model_trainer_config
+    params = self.params.TrainingArguments
+  File "box\config_box.py", line 30, in box.config_box.ConfigBox.__getattr__
+  File "box\box.py", line 552, in box.box.Box.__getattr__
+box.exceptions.BoxKeyError: "'ConfigBox' object has no attribute 'trainingarguments'"
+[2024-07-12 14:36:34,176: INFO: config: PyTorch version 2.3.1 available.]
+[2024-07-12 14:36:36,169: INFO: main: >>>> stageData Ingestion Stage started<<<]
+[2024-07-12 14:36:36,180: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-07-12 14:36:36,194: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-07-12 14:36:36,198: INFO: common: created directory at: artifacts]
+[2024-07-12 14:36:36,200: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-07-12 14:36:36,201: INFO: data_ingestion: File already exists of size: ~ 7718 KB]
+[2024-07-12 14:36:36,369: INFO: main: >>> stageData Ingestion Stage completed <<<<
+
+====x]
+[2024-07-12 14:36:36,369: INFO: main: >>>> stageData Validation Stage started<<<]
+[2024-07-12 14:36:36,373: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-07-12 14:36:36,374: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-07-12 14:36:36,375: INFO: common: created directory at: artifacts]
+[2024-07-12 14:36:36,375: INFO: common: created directory at: artifacts/data_validation]
+[2024-07-12 14:36:36,377: INFO: main: >>> stageData Validation Stage completed <<<<
+
+====x]
+[2024-07-12 14:36:36,377: INFO: main: >>>> stageData Transformation Stage started<<<]
+[2024-07-12 14:36:36,379: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-07-12 14:36:36,380: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-07-12 14:36:36,382: INFO: common: created directory at: artifacts]
+[2024-07-12 14:36:36,383: INFO: common: created directory at: artifacts/data_transformation]
+[2024-07-12 14:38:01,881: INFO: main: >>> stageData Transformation Stage completed <<<<
+
+====x]
+[2024-07-12 14:38:01,882: INFO: main: >>>> stageModel Training Stage started<<<]
+[2024-07-12 14:38:01,886: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-07-12 14:38:01,888: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-07-12 14:38:01,888: INFO: common: created directory at: artifacts]
+[2024-07-12 14:38:01,890: ERROR: main: "'ConfigBox' object has no attribute 'trainingarguments'"]
+Traceback (most recent call last):
+  File "box\box.py", line 503, in box.box.Box.__getitem__
+KeyError: 'TrainingArguments'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "box\box.py", line 536, in box.box.Box.__getattr__
+  File "box\box.py", line 524, in box.box.Box.__getitem__
+box.exceptions.BoxKeyError: "'TrainingArguments'"
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "box\box.py", line 538, in box.box.Box.__getattr__
+AttributeError: 'ConfigBox' object has no attribute 'TrainingArguments'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "box\config_box.py", line 28, in box.config_box.ConfigBox.__getattr__
+  File "box\box.py", line 552, in box.box.Box.__getattr__
+box.exceptions.BoxKeyError: "'ConfigBox' object has no attribute 'TrainingArguments'"
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "box\box.py", line 503, in box.box.Box.__getitem__
+KeyError: 'trainingarguments'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "box\box.py", line 536, in box.box.Box.__getattr__
+  File "box\box.py", line 524, in box.box.Box.__getitem__
+box.exceptions.BoxKeyError: "'trainingarguments'"
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "box\box.py", line 538, in box.box.Box.__getattr__
+AttributeError: 'ConfigBox' object has no attribute 'trainingarguments'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "D:\Text_Summarizer\main.py", line 63, in <module>
+    model_trainer.main()
+  File "d:\text_summarizer\src\Text_Summarizer\pipeline\stage_04_model_training.py", line 12, in main
+    model_trainer_config=config.get_model_trainer_config()
+  File "d:\text_summarizer\src\Text_Summarizer\config\configuration.py", line 60, in get_model_trainer_config
+    params = self.params.TrainingArguments
+  File "box\config_box.py", line 30, in box.config_box.ConfigBox.__getattr__
+  File "box\box.py", line 552, in box.box.Box.__getattr__
+box.exceptions.BoxKeyError: "'ConfigBox' object has no attribute 'trainingarguments'"
+[2024-07-12 14:51:57,517: INFO: config: PyTorch version 2.3.1 available.]
+[2024-07-12 14:51:58,667: INFO: main: >>>> stageData Ingestion Stage started<<<]
+[2024-07-12 14:51:58,671: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-07-12 14:51:58,674: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-07-12 14:51:58,675: INFO: common: created directory at: artifacts]
+[2024-07-12 14:51:58,675: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-07-12 14:51:58,675: INFO: data_ingestion: File already exists of size: ~ 7718 KB]
+[2024-07-12 14:51:58,825: INFO: main: >>> stageData Ingestion Stage completed <<<<
+
+====x]
+[2024-07-12 14:51:58,825: INFO: main: >>>> stageData Validation Stage started<<<]
+[2024-07-12 14:51:58,827: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-07-12 14:51:58,829: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-07-12 14:51:58,830: INFO: common: created directory at: artifacts]
+[2024-07-12 14:51:58,830: INFO: common: created directory at: artifacts/data_validation]
+[2024-07-12 14:51:58,831: INFO: main: >>> stageData Validation Stage completed <<<<
+
+====x]
+[2024-07-12 14:51:58,831: INFO: main: >>>> stageData Transformation Stage started<<<]
+[2024-07-12 14:51:58,834: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-07-12 14:51:58,836: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-07-12 14:51:58,837: INFO: common: created directory at: artifacts]
+[2024-07-12 14:51:58,837: INFO: common: created directory at: artifacts/data_transformation]
+[2024-07-12 14:54:32,972: INFO: config: PyTorch version 2.3.1 available.]
+[2024-07-12 14:54:35,198: INFO: main: >>>> stageData Ingestion Stage started<<<]
+[2024-07-12 14:54:35,201: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-07-12 14:54:35,205: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-07-12 14:54:35,206: INFO: common: created directory at: artifacts]
+[2024-07-12 14:54:35,206: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-07-12 14:54:38,454: INFO: data_ingestion: artifacts/data_ingestion/data.zip download! with following info: 
+Connection: close
+Content-Length: 7903594
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "dbc016a060da18070593b83afff580c9b300f0b6ea4147a7988433e04df246ca"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: 75A6:33215:1D854:22F81:6690F2CF
+Accept-Ranges: bytes
+Date: Fri, 12 Jul 2024 09:09:36 GMT
+Via: 1.1 varnish
+X-Served-By: cache-del21736-DEL
+X-Cache: MISS
+X-Cache-Hits: 0
+X-Timer: S1720775376.965969,VS0,VE741
+Vary: Authorization,Accept-Encoding,Origin
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: 9371090af51b62b6aa6b291aba234316aac00cbb
+Expires: Fri, 12 Jul 2024 09:14:36 GMT
+Source-Age: 0
+
+]
+[2024-07-12 14:54:38,606: INFO: main: >>> stageData Ingestion Stage completed <<<<
+
+====x]
+[2024-07-12 14:54:38,607: INFO: main: >>>> stageData Validation Stage started<<<]
+[2024-07-12 14:54:38,611: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-07-12 14:54:38,612: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-07-12 14:54:38,613: INFO: common: created directory at: artifacts]
+[2024-07-12 14:54:38,613: INFO: common: created directory at: artifacts/data_validation]
+[2024-07-12 14:54:38,615: INFO: main: >>> stageData Validation Stage completed <<<<
+
+====x]
+[2024-07-12 14:54:38,615: INFO: main: >>>> stageData Transformation Stage started<<<]
+[2024-07-12 14:54:38,620: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-07-12 14:54:38,623: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-07-12 14:54:38,624: INFO: common: created directory at: artifacts]
+[2024-07-12 14:54:38,625: INFO: common: created directory at: artifacts/data_transformation]
+[2024-07-12 14:54:43,419: INFO: main: >>> stageData Transformation Stage completed <<<<
+
+====x]
+[2024-07-12 14:54:43,421: INFO: main: >>>> stageModel Training Stage started<<<]
+[2024-07-12 14:54:43,424: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-07-12 14:54:43,427: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-07-12 14:54:43,428: INFO: common: created directory at: artifacts]
+[2024-07-12 14:54:43,429: INFO: common: created directory at: artifacts/model_trainer]
+[2024-07-12 14:56:43,221: ERROR: main: Using the `Trainer` with `PyTorch` requires `accelerate>=0.21.0`: Please run `pip install transformers[torch]` or `pip install accelerate -U`]
+Traceback (most recent call last):
+  File "main.py", line 63, in <module>
+    model_trainer.main()
+  File "d:\text_summarizer\src\Text_Summarizer\pipeline\stage_04_model_training.py", line 14, in main
+    model_trainer.train()
+  File "d:\text_summarizer\src\Text_Summarizer\components\model_training.py", line 34, in train
+    trainer_args = TrainingArguments(
+  File "<string>", line 129, in __init__
+  File "D:\Anaconda\envs\texts\lib\site-packages\transformers\training_args.py", line 1693, in __post_init__
+    self.device
+  File "D:\Anaconda\envs\texts\lib\site-packages\transformers\training_args.py", line 2171, in device
+    return self._setup_devices
+  File "D:\Anaconda\envs\texts\lib\site-packages\transformers\utils\generic.py", line 60, in __get__
+    cached = self.fget(obj)
+  File "D:\Anaconda\envs\texts\lib\site-packages\transformers\training_args.py", line 2051, in _setup_devices
+    raise ImportError(
+ImportError: Using the `Trainer` with `PyTorch` requires `accelerate>=0.21.0`: Please run `pip install transformers[torch]` or `pip install accelerate -U`
+[2024-07-12 14:58:10,076: INFO: config: PyTorch version 2.3.1 available.]
+[2024-07-12 14:58:11,293: INFO: main: >>>> stageData Ingestion Stage started<<<]
+[2024-07-12 14:58:11,296: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-07-12 14:58:11,299: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-07-12 14:58:11,306: INFO: common: created directory at: artifacts]
+[2024-07-12 14:58:11,307: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-07-12 14:58:13,858: INFO: data_ingestion: artifacts/data_ingestion/data.zip download! with following info: 
+Connection: close
+Content-Length: 7903594
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "dbc016a060da18070593b83afff580c9b300f0b6ea4147a7988433e04df246ca"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: 75A6:33215:1D854:22F81:6690F2CF
+Accept-Ranges: bytes
+Date: Fri, 12 Jul 2024 09:13:12 GMT
+Via: 1.1 varnish
+X-Served-By: cache-del21729-DEL
+X-Cache: HIT
+X-Cache-Hits: 0
+X-Timer: S1720775592.115117,VS0,VE1
+Vary: Authorization,Accept-Encoding,Origin
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: 9cd762786f5fa1abe736f33c2a23991a1bd0d55a
+Expires: Fri, 12 Jul 2024 09:18:12 GMT
+Source-Age: 216
+
+]
+[2024-07-12 14:58:14,019: INFO: main: >>> stageData Ingestion Stage completed <<<<
+
+====x]
+[2024-07-12 14:58:14,021: INFO: main: >>>> stageData Validation Stage started<<<]
+[2024-07-12 14:58:14,025: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-07-12 14:58:14,028: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-07-12 14:58:14,032: INFO: common: created directory at: artifacts]
+[2024-07-12 14:58:14,036: INFO: common: created directory at: artifacts/data_validation]
+[2024-07-12 14:58:14,041: INFO: main: >>> stageData Validation Stage completed <<<<
+
+====x]
+[2024-07-12 14:58:14,042: INFO: main: >>>> stageData Transformation Stage started<<<]
+[2024-07-12 14:58:14,050: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-07-12 14:58:14,055: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-07-12 14:58:14,056: INFO: common: created directory at: artifacts]
+[2024-07-12 14:58:14,058: INFO: common: created directory at: artifacts/data_transformation]
+[2024-07-12 14:58:18,848: INFO: main: >>> stageData Transformation Stage completed <<<<
+
+====x]
+[2024-07-12 14:58:18,848: INFO: main: >>>> stageModel Training Stage started<<<]
+[2024-07-12 14:58:18,852: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-07-12 14:58:18,854: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-07-12 14:58:18,855: INFO: common: created directory at: artifacts]
+[2024-07-12 14:58:18,856: INFO: common: created directory at: artifacts/model_trainer]
+[2024-07-12 15:05:09,903: INFO: config: PyTorch version 2.3.1 available.]
+[2024-07-12 15:05:11,173: INFO: main: >>>> stageData Ingestion Stage started<<<]
+[2024-07-12 15:05:11,176: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-07-12 15:05:11,187: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-07-12 15:05:11,187: INFO: common: created directory at: artifacts]
+[2024-07-12 15:05:11,187: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-07-12 15:05:11,187: INFO: data_ingestion: File already exists of size: ~ 7718 KB]
+[2024-07-12 15:05:11,325: INFO: main: >>> stageData Ingestion Stage completed <<<<
+
+====x]
+[2024-07-12 15:05:11,325: INFO: main: >>>> stageData Validation Stage started<<<]
+[2024-07-12 15:05:11,328: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-07-12 15:05:11,330: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-07-12 15:05:11,330: INFO: common: created directory at: artifacts]
+[2024-07-12 15:05:11,331: INFO: common: created directory at: artifacts/data_validation]
+[2024-07-12 15:05:11,332: INFO: main: >>> stageData Validation Stage completed <<<<
+
+====x]
+[2024-07-12 15:05:11,332: INFO: main: >>>> stageData Transformation Stage started<<<]
+[2024-07-12 15:05:11,336: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-07-12 15:05:11,337: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-07-12 15:05:11,338: INFO: common: created directory at: artifacts]
+[2024-07-12 15:05:11,338: INFO: common: created directory at: artifacts/data_transformation]
+[2024-07-12 15:05:13,624: INFO: main: >>> stageData Transformation Stage completed <<<<
+
+====x]
+[2024-07-12 15:05:13,625: INFO: main: >>>> stageModel Training Stage started<<<]
+[2024-07-12 15:05:13,630: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-07-12 15:05:13,634: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-07-12 15:05:13,635: INFO: common: created directory at: artifacts]
+[2024-07-12 15:05:13,636: INFO: common: created directory at: artifacts/model_trainer]
+[2024-07-12 15:05:13,636: ERROR: main: "'ConfigBox' object has no attribute 'evaluation_strategy'"]
+Traceback (most recent call last):
+  File "box\box.py", line 503, in box.box.Box.__getitem__
+KeyError: 'evaluation_strategy'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "box\box.py", line 536, in box.box.Box.__getattr__
+  File "box\box.py", line 524, in box.box.Box.__getitem__
+box.exceptions.BoxKeyError: "'evaluation_strategy'"
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "box\box.py", line 538, in box.box.Box.__getattr__
+AttributeError: 'ConfigBox' object has no attribute 'evaluation_strategy'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "box\config_box.py", line 28, in box.config_box.ConfigBox.__getattr__
+  File "box\box.py", line 552, in box.box.Box.__getattr__
+box.exceptions.BoxKeyError: "'ConfigBox' object has no attribute 'evaluation_strategy'"
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "box\box.py", line 503, in box.box.Box.__getitem__
+KeyError: 'evaluation_strategy'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "box\box.py", line 536, in box.box.Box.__getattr__
+  File "box\box.py", line 524, in box.box.Box.__getitem__
+box.exceptions.BoxKeyError: "'evaluation_strategy'"
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "box\box.py", line 538, in box.box.Box.__getattr__
+AttributeError: 'ConfigBox' object has no attribute 'evaluation_strategy'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "main.py", line 63, in <module>
+    model_trainer.main()
+  File "d:\text_summarizer\src\Text_Summarizer\pipeline\stage_04_model_training.py", line 12, in main
+    model_trainer_config=config.get_model_trainer_config()
+  File "d:\text_summarizer\src\Text_Summarizer\config\configuration.py", line 71, in get_model_trainer_config
+    eval_strategy = params.evaluation_strategy,
+  File "box\config_box.py", line 30, in box.config_box.ConfigBox.__getattr__
+  File "box\box.py", line 552, in box.box.Box.__getattr__
+box.exceptions.BoxKeyError: "'ConfigBox' object has no attribute 'evaluation_strategy'"
+[2024-07-12 15:06:39,501: INFO: config: PyTorch version 2.3.1 available.]
+[2024-07-12 15:06:40,894: INFO: main: >>>> stageData Ingestion Stage started<<<]
+[2024-07-12 15:06:40,900: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-07-12 15:06:40,905: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-07-12 15:06:40,906: INFO: common: created directory at: artifacts]
+[2024-07-12 15:06:40,906: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-07-12 15:06:40,906: INFO: data_ingestion: File already exists of size: ~ 7718 KB]
+[2024-07-12 15:06:41,079: INFO: main: >>> stageData Ingestion Stage completed <<<<
+
+====x]
+[2024-07-12 15:06:41,080: INFO: main: >>>> stageData Validation Stage started<<<]
+[2024-07-12 15:06:41,084: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-07-12 15:06:41,087: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-07-12 15:06:41,088: INFO: common: created directory at: artifacts]
+[2024-07-12 15:06:41,089: INFO: common: created directory at: artifacts/data_validation]
+[2024-07-12 15:06:41,090: INFO: main: >>> stageData Validation Stage completed <<<<
+
+====x]
+[2024-07-12 15:06:41,091: INFO: main: >>>> stageData Transformation Stage started<<<]
+[2024-07-12 15:06:41,095: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-07-12 15:06:41,099: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-07-12 15:06:41,100: INFO: common: created directory at: artifacts]
+[2024-07-12 15:06:41,101: INFO: common: created directory at: artifacts/data_transformation]
+[2024-07-12 15:06:42,798: INFO: main: >>> stageData Transformation Stage completed <<<<
+
+====x]
+[2024-07-12 15:06:42,799: INFO: main: >>>> stageModel Training Stage started<<<]
+[2024-07-12 15:06:42,802: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-07-12 15:06:42,804: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-07-12 15:06:42,805: INFO: common: created directory at: artifacts]
+[2024-07-12 15:06:42,806: INFO: common: created directory at: artifacts/model_trainer]
+[2024-07-12 15:06:42,806: ERROR: main: __init__() got an unexpected keyword argument 'evaluation_strategy']
+Traceback (most recent call last):
+  File "main.py", line 63, in <module>
+    model_trainer.main()
+  File "d:\text_summarizer\src\Text_Summarizer\pipeline\stage_04_model_training.py", line 12, in main
+    model_trainer_config=config.get_model_trainer_config()
+  File "d:\text_summarizer\src\Text_Summarizer\config\configuration.py", line 63, in get_model_trainer_config
+    model_trainer_config = ModelTrainerConfig(
+TypeError: __init__() got an unexpected keyword argument 'evaluation_strategy'
+[2024-07-12 15:06:57,700: INFO: config: PyTorch version 2.3.1 available.]
+[2024-07-12 15:06:59,143: INFO: main: >>>> stageData Ingestion Stage started<<<]
+[2024-07-12 15:06:59,146: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-07-12 15:06:59,148: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-07-12 15:06:59,156: INFO: common: created directory at: artifacts]
+[2024-07-12 15:06:59,157: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-07-12 15:06:59,158: INFO: data_ingestion: File already exists of size: ~ 7718 KB]
+[2024-07-12 15:06:59,327: INFO: main: >>> stageData Ingestion Stage completed <<<<
+
+====x]
+[2024-07-12 15:06:59,328: INFO: main: >>>> stageData Validation Stage started<<<]
+[2024-07-12 15:06:59,333: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-07-12 15:06:59,335: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-07-12 15:06:59,336: INFO: common: created directory at: artifacts]
+[2024-07-12 15:06:59,337: INFO: common: created directory at: artifacts/data_validation]
+[2024-07-12 15:06:59,338: INFO: main: >>> stageData Validation Stage completed <<<<
+
+====x]
+[2024-07-12 15:06:59,339: INFO: main: >>>> stageData Transformation Stage started<<<]
+[2024-07-12 15:06:59,344: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-07-12 15:06:59,348: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-07-12 15:06:59,352: INFO: common: created directory at: artifacts]
+[2024-07-12 15:06:59,353: INFO: common: created directory at: artifacts/data_transformation]
+[2024-07-12 15:07:00,778: INFO: main: >>> stageData Transformation Stage completed <<<<
+
+====x]
+[2024-07-12 15:07:00,779: INFO: main: >>>> stageModel Training Stage started<<<]
+[2024-07-12 15:07:00,783: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-07-12 15:07:00,785: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-07-12 15:07:00,786: INFO: common: created directory at: artifacts]
+[2024-07-12 15:07:00,787: INFO: common: created directory at: artifacts/model_trainer]
+[2024-07-12 15:11:40,486: INFO: config: PyTorch version 2.3.1 available.]
+[2024-07-12 15:11:42,435: INFO: main: >>>> stageData Ingestion Stage started<<<]
+[2024-07-12 15:11:42,438: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-07-12 15:11:42,442: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-07-12 15:11:42,443: INFO: common: created directory at: artifacts]
+[2024-07-12 15:11:42,444: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-07-12 15:11:42,444: INFO: data_ingestion: File already exists of size: ~ 7718 KB]
+[2024-07-12 15:11:42,615: INFO: main: >>> stageData Ingestion Stage completed <<<<
+
+====x]
+[2024-07-12 15:11:42,615: INFO: main: >>>> stageData Validation Stage started<<<]
+[2024-07-12 15:11:42,620: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-07-12 15:11:42,622: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-07-12 15:11:42,623: INFO: common: created directory at: artifacts]
+[2024-07-12 15:11:42,623: INFO: common: created directory at: artifacts/data_validation]
+[2024-07-12 15:11:42,625: INFO: main: >>> stageData Validation Stage completed <<<<
+
+====x]
+[2024-07-12 15:11:42,625: INFO: main: >>>> stageData Transformation Stage started<<<]
+[2024-07-12 15:11:42,629: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-07-12 15:11:42,632: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-07-12 15:11:42,634: INFO: common: created directory at: artifacts]
+[2024-07-12 15:11:42,634: INFO: common: created directory at: artifacts/data_transformation]
+[2024-07-12 15:13:05,729: INFO: main: >>> stageData Transformation Stage completed <<<<
+
+====x]
+[2024-07-12 15:13:05,730: INFO: main: >>>> stageModel Training Stage started<<<]
+[2024-07-12 15:13:05,735: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-07-12 15:13:05,740: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-07-12 15:13:05,741: INFO: common: created directory at: artifacts]
+[2024-07-12 15:13:05,741: INFO: common: created directory at: artifacts/model_trainer]
+[2024-07-12 17:45:15,193: INFO: config: PyTorch version 2.3.1 available.]
+[2024-07-12 17:45:16,760: INFO: main: >>>> stageData Ingestion Stage started<<<]
+[2024-07-12 17:45:16,772: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-07-12 17:45:16,777: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-07-12 17:45:16,778: INFO: common: created directory at: artifacts]
+[2024-07-12 17:45:16,778: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-07-12 17:45:16,778: INFO: data_ingestion: File already exists of size: ~ 7718 KB]
+[2024-07-12 17:45:16,889: INFO: main: >>> stageData Ingestion Stage completed <<<<
+
+====x]
+[2024-07-12 17:45:16,889: INFO: main: >>>> stageData Validation Stage started<<<]
+[2024-07-12 17:45:16,891: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-07-12 17:45:16,892: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-07-12 17:45:16,893: INFO: common: created directory at: artifacts]
+[2024-07-12 17:45:16,893: INFO: common: created directory at: artifacts/data_validation]
+[2024-07-12 17:45:16,893: INFO: main: >>> stageData Validation Stage completed <<<<
+
+====x]
+[2024-07-12 17:45:16,893: INFO: main: >>>> stageData Transformation Stage started<<<]
+[2024-07-12 17:45:16,895: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-07-12 17:45:16,896: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-07-12 17:45:16,897: INFO: common: created directory at: artifacts]
+[2024-07-12 17:45:16,897: INFO: common: created directory at: artifacts/data_transformation]
+[2024-07-12 17:46:34,414: INFO: main: >>> stageData Transformation Stage completed <<<<
+
+====x]
+[2024-07-12 17:46:34,414: INFO: main: >>>> stageModel Training Stage started<<<]
+[2024-07-12 17:46:34,417: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-07-12 17:46:34,418: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-07-12 17:46:34,418: INFO: common: created directory at: artifacts]
+[2024-07-12 17:46:34,419: INFO: common: created directory at: artifacts/model_trainer]
+[2024-07-12 18:15:13,412: INFO: config: PyTorch version 2.3.1 available.]
+[2024-07-12 18:15:14,752: INFO: main: >>>> stageData Ingestion Stage started<<<]
+[2024-07-12 18:15:14,760: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-07-12 18:15:14,763: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-07-12 18:15:14,763: INFO: common: created directory at: artifacts]
+[2024-07-12 18:15:14,764: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-07-12 18:15:14,764: INFO: data_ingestion: File already exists of size: ~ 7718 KB]
+[2024-07-12 18:15:14,880: INFO: main: >>> stageData Ingestion Stage completed <<<<
+
+====x]
+[2024-07-12 18:15:14,880: INFO: main: >>>> stageData Validation Stage started<<<]
+[2024-07-12 18:15:14,882: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-07-12 18:15:14,883: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-07-12 18:15:14,884: INFO: common: created directory at: artifacts]
+[2024-07-12 18:15:14,884: INFO: common: created directory at: artifacts/data_validation]
+[2024-07-12 18:15:14,884: INFO: main: >>> stageData Validation Stage completed <<<<
+
+====x]
+[2024-07-12 18:15:14,884: INFO: main: >>>> stageData Transformation Stage started<<<]
+[2024-07-12 18:15:14,886: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-07-12 18:15:14,887: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-07-12 18:15:14,888: INFO: common: created directory at: artifacts]
+[2024-07-12 18:15:14,888: INFO: common: created directory at: artifacts/data_transformation]
+[2024-07-12 18:16:38,244: INFO: main: >>> stageData Transformation Stage completed <<<<
+
+====x]
+[2024-07-12 18:16:38,245: INFO: main: >>>> stageModel Training Stage started<<<]
+[2024-07-12 18:16:38,252: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-07-12 18:16:38,257: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-07-12 18:16:38,258: INFO: common: created directory at: artifacts]
+[2024-07-12 18:16:38,259: INFO: common: created directory at: artifacts/model_trainer]
+[2024-07-12 18:27:00,246: INFO: config: PyTorch version 2.3.1 available.]
+[2024-07-12 18:27:01,517: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-07-12 18:27:01,535: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-07-12 18:27:01,540: INFO: common: created directory at: artifacts]
+[2024-07-12 18:29:11,840: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-07-12 18:29:11,846: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-07-12 18:29:11,848: INFO: common: created directory at: artifacts]
+[2024-07-12 18:29:11,849: INFO: common: created directory at: artifacts/model_evaluation]
